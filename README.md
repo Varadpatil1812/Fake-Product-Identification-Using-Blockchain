@@ -1,5 +1,28 @@
 # Product Identification Using Blockchain
 
+#### View Live at : 
+
+### Note : 
+```
+This Project Using SepoliaETH Testnet...
+```
+
+### Test Users :
+
+##### - Test User 1
+```
+Brand ID : adminnike
+Brand Name : NIKE
+Password : admi
+```
+
+##### - Test User 2
+```
+Brand ID : adminpuma
+Brand Name : PUMA
+Password : admin
+```
+
 ### Technologies & Frameworks :
 [![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/SURAJPATIL6088)
 [![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SURAJPATIL6088)
